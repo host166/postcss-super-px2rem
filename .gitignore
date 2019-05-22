@@ -1,0 +1,5 @@
+dist
+bak
+npm-debug.log
+.DS_Store
+utils/userSignIn.js
