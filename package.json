@@ -1,6 +1,6 @@
 {
   "name": "postcss-plugin-super-px2rem",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A super plugin for PostCSS that generates rem units from multi units.",
   "main": "index.js",
   "scripts": {
